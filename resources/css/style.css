@@ -311,6 +311,8 @@ header{
 .btn-app img{
     height: 50px;
     width: auto;
+}
+.btn-app:first-of-type img{
     margin-right: 10px;
 }
 
